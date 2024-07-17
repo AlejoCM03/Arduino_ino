@@ -4,43 +4,43 @@ Es una plataforma de desarrollo de electrónica de código abierto software y ha
 
 Es una placa electrónica que incorpora un microcontrolador re-programable y una serie de pines hembra, en los cuales se pueden conectar sensores, dispositivos electronicos e incluso otros arduinos.
 
-![Imagen 1.][https://www.google.com/url?sa=i&url=https%3A%2F%2Fyorobotics.co%2Fproducto%2Ftarjeta-de-desarrollo-arduino-uno-r3-superficial-ch340-compatible%2F&psig=AOvVaw1WgI9f2qla_fwvFzJZI0Cy&ust=1721257254523000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMitxovVrIcDFQAAAAAdAAAAABAT]
+![Imagen 1.][https://i0.wp.com/www.ingmecafenix.com/wp-content/uploads/2017/04/Arduino-partes.webp?resize=683%2C384&ssl=1]
 
 
-![Imagen 2.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ingmecafenix.com%2Felectronica%2Fprogramacion%2Farduino%2F&psig=AOvVaw1WgI9f2qla_fwvFzJZI0Cy&ust=1721257254523000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMitxovVrIcDFQAAAAAdAAAAABAl)
+![Imagen 2.](https://i0.wp.com/www.ingmecafenix.com/wp-content/uploads/2017/04/Arduino-partes.webp?resize=683%2C384&ssl=1)
 
 ##Open Source Hardware
 Hardware de codigo abierto
 
-Promueve ka creación, modificacion y distribucion con base en los principios de software de codigo abierto. Esto indica que los diseños de hardware de codigo abierto estan disponibles para que cualquiera que los use, modifique o distribuya, lo haga sin restricciones
+Promueve la creación, modificacion y distribucion con base en los principios de software de codigo abierto. Esto indica que los diseños de hardware de codigo abierto estan disponibles para que cualquiera que los use, modifique o distribuya, lo haga sin restricciones
 
-![Imagen 3.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FOpen-source_hardware&psig=AOvVaw2xjp1b_Psn_TpTInmVGpiH&ust=1721257577978000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiF1aXWrIcDFQAAAAAdAAAAABAE)
+![Imagen 3.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEdLLgIZIGIx31PLvnES8HqSz3_sYpUm6Cvg&s)
 
 
 ## Alcance y aplicaciones
 ### Control de dispositicos electronicos
 Como luces, motores, relays; creando asi juguetes, robots, automatizacion del hogar.
 
-![Imagen 4.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fecuarobot.com%2F2020%2F04%2F02%2Fsistema-de-seguridad-con-arduino%2F&psig=AOvVaw0xsLV-Cs6QXU5xFJ0cOtl8&ust=1721257737958000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCavPPWrIcDFQAAAAAdAAAAABAJ)
-![Imagen 5.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodelearn.es%2Fblog%2Fque-es-arduino-para-que-sirve%2F&psig=AOvVaw0xsLV-Cs6QXU5xFJ0cOtl8&ust=1721257737958000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCavPPWrIcDFQAAAAAdAAAAABAT)
+![Imagen 4.](https://ecuarobot.com/wp-content/uploads/2020/04/seguridad.png)
+![Imagen 5.](https://www.geya.net/wp-content/uploads/2024/01/Using-a-4-channel-5V-relay-module-with-Arduino.png)
 
 
 ### Creacion de sensores y actuadores
 Arduino tiene la capacidad de crear proyectos que interactuen con el mundo fisico, creando asi sensores (de luz, temperatura, sonido), actuadores de motor, manejo de displays, etc.
 
-![Imagen 6.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.taloselectronics.com%2Fproducts%2Fkit-de-16-sensores-para-arduino-y-raspberry&psig=AOvVaw2lm5iqa59W7ZjWvfNaZRz1&ust=1721257966438000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiL_uDXrIcDFQAAAAAdAAAAABAE)
+![Imagen 6.](https://www.taloselectronics.com/cdn/shop/products/kit_de_16_sensores_para_arduino_y_raspberry_mexico_jalisco_guadalajara_1200x1200.png?v=1593814929)
 
 
 ### Domotica
 Se refiere a la automatizacion y el control aplicados a la vivienda.
 
-![Imagen 7.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.teleintra.com.mx%2Fproductos%2Fviviendas-inteligentes-seguras-domotica%2F&psig=AOvVaw2rwENe0t_tFb-sP_KPfgHr&ust=1721258081492000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjMoZfYrIcDFQAAAAAdAAAAABAE)
+![Imagen 7.](https://www.topdomo.com/wp-content/uploads/Arduino-domotica-sistemas.jpg)
 
 
 ### IoT 
 Se refiere a la red colectiva de dispositivos conectados y a la tecnologia que facilita su conexión. Con arduino se puede implementar dispositivos de seguimiento de datos, dispositivos de seguridad, dispositivos de entretenimiento, etc.
 
-![Imagen 8.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DUFCmTZUoZ1M&psig=AOvVaw3l5oRA3RVNKfAa2XvANUEF&ust=1721258288439000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDJ5PjYrIcDFQAAAAAdAAAAABAT)
+![Imagen 8.](https://www.marketify.mx/cdn/shop/products/s-l1600_9cb22d5f-ee8f-4c4b-ac51-766b5eed0754.jpg?v=1571726192)
 
 <span style="backgound-color: #96D9D6;">Arduino esta limitado solo por tu creatividad</span>
 
@@ -62,8 +62,3 @@ Podemos hacer algunas pruebas para comprobar que este reconociendo el IDE
 Si por alguna razon no tienes tu arduino a la mano, lo perdiste, se te rompio o simplemente lo olvidaste, pero tienes una gran idea y la quieres implementar. Ingresa a este link, registrate y podras estar trabajando desde tu ordenador. 
 
 [TINKERCAD](https://www.tinkercad.com/)
-
- 
-
-
-[https://www.google.com/url?sa=i&url=https%3A%2F%2Fyorobotics.co%2Fproducto%2Ftarjeta-de-desarrollo-arduino-uno-r3-superficial-ch340-compatible%2F&psig=AOvVaw1WgI9f2qla_fwvFzJZI0Cy&ust=1721257254523000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMitxovVrIcDFQAAAAAdAAAAABAT]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fyorobotics.co%2Fproducto%2Ftarjeta-de-desarrollo-arduino-uno-r3-superficial-ch340-compatible%2F&psig=AOvVaw1WgI9f2qla_fwvFzJZI0Cy&ust=1721257254523000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMitxovVrIcDFQAAAAAdAAAAABAT
