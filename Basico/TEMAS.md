@@ -1,6 +1,6 @@
-##NIVEL BÁSICO
+## NIVEL BÁSICO
 
-###Introducción a arduino
+### Introducción a arduino
 - ¿Qué es arduino?
 - Open Source Hardware
 - Alcance y aplicaciones
@@ -8,7 +8,7 @@
 - Reconocimiento del IDE
 - Trabajo en linea
 
-###Componentes electronicos
+### Componentes electronicos
 - ¿Qué son?
 - LED's
 - Resistencias y resistores
@@ -17,25 +17,25 @@
 - Capacitores
 - Placa de pruebas
 
-###Fundamentos de electronica
+### Fundamentos de electronica
 - Concepto
 - Uso del multimetro
 - Ley de OHM
 - Divisor de volaje
 - Conceptos relacionados
 
-###Programación en arduino
+### Programación en arduino
 - Loop() & setup()
 - Tipos de datos
 - Operadores
 - Estrucuras de control
 - Funciones
 
-###Manejo de hardware
+### Manejo de hardware
 - Teclado keypad 4x4
 - Magnetómetro
 
-###Señales analogicas y digitales
+### Señales analogicas y digitales
 - Propiedades
 - Pines de proposito general
 - Multiplexor de 7 segmentos
@@ -45,7 +45,7 @@
 - Funcion map()
 - PWM y aplicaciones
 
-###Sensores
+### Sensores
 - Definicion y principio de funcionamiento
 - Fotorresistores
 - Sensores infrarojos
