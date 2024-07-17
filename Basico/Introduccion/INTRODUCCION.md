@@ -6,7 +6,7 @@ Es una placa electrónica que incorpora un microcontrolador re-programable y una
 
 ![Imagen 2.](https://i0.wp.com/www.ingmecafenix.com/wp-content/uploads/2017/04/Arduino-partes.webp?resize=683%2C384&ssl=1)
 
-##Open Source Hardware
+## Open Source Hardware
 Hardware de codigo abierto
 
 Promueve la creación, modificacion y distribucion con base en los principios de software de codigo abierto. Esto indica que los diseños de hardware de codigo abierto estan disponibles para que cualquiera que los use, modifique o distribuya, lo haga sin restricciones
