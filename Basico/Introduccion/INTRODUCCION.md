@@ -4,9 +4,6 @@ Es una plataforma de desarrollo de electrónica de código abierto software y ha
 
 Es una placa electrónica que incorpora un microcontrolador re-programable y una serie de pines hembra, en los cuales se pueden conectar sensores, dispositivos electronicos e incluso otros arduinos.
 
-![Imagen 1.][https://i0.wp.com/www.ingmecafenix.com/wp-content/uploads/2017/04/Arduino-partes.webp?resize=683%2C384&ssl=1]
-
-
 ![Imagen 2.](https://i0.wp.com/www.ingmecafenix.com/wp-content/uploads/2017/04/Arduino-partes.webp?resize=683%2C384&ssl=1)
 
 ##Open Source Hardware
